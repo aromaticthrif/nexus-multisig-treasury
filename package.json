@@ -1,0 +1,26 @@
+{
+  "name": "nexus-multisig-treasury",
+  "version": "1.0.0",
+  "description": "Enterprise-grade M-of-N Multi-Signature Governance and Timelock Treasury Protocol",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "multisig",
+    "governance",
+    "timelock",
+    "dao",
+    "web3"
+  ],
+  "author": "aromaticthrif",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
