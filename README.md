@@ -70,8 +70,8 @@ An enterprise-grade, decentralized **M-of-N Multi-Signature Wallet and Timelock 
 ### 1. Installation
 
 ```bash
-git clone https://github.com/aromaticthrif/repo-86xi7fwj.git
-cd repo-86xi7fwj
+git clone https://github.com/aromaticthrif/nexus-multisig-treasury.git
+cd nexus-multisig-treasury
 npm install
 ```
 
